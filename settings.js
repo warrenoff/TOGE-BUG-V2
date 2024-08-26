@@ -13,7 +13,7 @@ global.location = "Africa, Gabon, Libreville" //ur location
 
 //new
 global.botname = '𝚃𝙾𝙶𝙴-𝙱𝚄𝙶-𝚅𝟸' //ur bot name
-global.ownernumber = '13038480418' //ur owner number
+global.ownernumber = '6283833304947' //ur owner number
 global.ownername = '𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸' //ur owner name
 global.websitex = "https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo"
 global.wagc = "https://whatsapp.com/channel/0029VaiuD4s4IBhI0fzbv40Z"
@@ -28,7 +28,7 @@ global.premium = ["6283833304947"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v4'
+global.typemenu = 'v2'
 global.typereply = 'v1'
 global.autoblocknumber = '212' //set autoblock country code
 global.antiforeignnumber = '1' //set anti foreign number country code
